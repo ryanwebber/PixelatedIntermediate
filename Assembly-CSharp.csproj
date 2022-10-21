@@ -39,6 +39,7 @@
      <Compile Include="Assets/RenderingGlobals.cs" />
      <Compile Include="Assets/ForceDepthTexture.cs" />
      <Compile Include="Assets/Character/MovementInput.cs" />
+     <Compile Include="Assets/Scripts/ScreenSpacePixelation.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2022.1.3f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
