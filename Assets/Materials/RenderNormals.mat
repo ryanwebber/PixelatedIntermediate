@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: RenderDepth
-  m_Shader: {fileID: -6465566751694194690, guid: 28ffda1f0a2ea4f6c920e679dea80b2c,
+  m_Name: RenderNormals
+  m_Shader: {fileID: -6465566751694194690, guid: c5f2ea2140ee04582bb4da9e91d3c0dd,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -112,7 +112,7 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _Far_Clipping_Distance: 35351.945
+    - _Far_Clipping_Distance: 10
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0

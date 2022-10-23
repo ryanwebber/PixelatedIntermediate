@@ -16,15 +16,14 @@ MonoBehaviour:
   renderPassEvent: 550
   pixelationLayers:
     serializedVersion: 2
-    m_Bits: 256
-  unpixelatedLayers:
-    serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 2147483647
   depthRenderingMaterial: {fileID: 2100000, guid: 96f3c1540acdd4c9dbf3329e238db3bb,
+    type: 2}
+  normalsRenderingMaterial: {fileID: 2100000, guid: 51671485bd21242ada52c95ee2d3b631,
     type: 2}
   sceneBlendMaterial: {fileID: 2100000, guid: db94054c73ad84fe192288dbaed2fdcb, type: 2}
   blitMaterial: {fileID: 0}
-  pixelationResolution: {x: 480, y: 270}
+  pixelationResolution: {x: 960, y: 540}
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
